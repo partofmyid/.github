@@ -1,1 +1,1 @@
-<div align="center"><img src="/profile/image.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/partofmyid/.github/refs/heads/main/profile/image.png"></div>
