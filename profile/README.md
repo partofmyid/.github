@@ -12,4 +12,4 @@
 - [is-a-good.dev](https://is-a-good.dev/)
 - [is-cool.me](https://is-cool.me/)
 - [is-not.cool](https://is-not.cool/)
-- [really-is-a.dev](https://really-is-a.dev/)
+- [really.is-a.dev](https://really.is-a.dev/)
