@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="//github.com/partofmyid/register" align="center">
+  <a href="https://github.com/partofmyid/register" align="center">
     <img src="https://raw.githubusercontent.com/partofmyid/.github/refs/heads/main/profile/image.png">
   </a>
-  <h1>Made in <i>Indonesia</i> by <a href="//satr14.my.id">satr14</a></h1>
+  <h1>Made in <i>Indonesia</i> by <a href="https://satr14.my.id">satr14</a></h1>
 </div>
 
 ## Similar Services
