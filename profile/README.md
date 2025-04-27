@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/partofmyid/.github/refs/heads/main/banner.png">
-  <p><a href="https://github.com/partofmyid/register">register</a> - <a href="https://part-of.my.id/docs">docs</a></p>
+  <p><a href="https://github.com/partofmyid/register">register</a> - <a href="https://part-of.my.id/docs">docs</a> - <a href="https://discord.gg/rFyRF3MMhc">discord</a></p>
 </div>
 
 ## Similar Services
